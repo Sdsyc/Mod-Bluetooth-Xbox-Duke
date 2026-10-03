@@ -96,10 +96,11 @@ The main goals of the project are:
     <td><img width="400" src="https://github.com/user-attachments/assets/6679dd90-f1c9-4f44-9193-12cb12c33d3d" /></td>
   </tr>
   <tr>
-    <td><img width="400" src="https://github.com/user-attachments/assets/a0c2a6bd-45b3-44b8-9a64-89e3eea48470" /></td>
+    <td><img width="400" src="https://github.com/user-attachments/assets/a0542f51-15bc-4ed6-9311-43a001a62bfd" /></td>
     <td><img width="400" src="https://github.com/user-attachments/assets/652b5db6-253e-4374-968f-30194f1041ea" /></td>   
   </tr>
 </table>
+
 
 ### Disclaimer
 
