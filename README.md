@@ -7,7 +7,7 @@ The project includes the integration of new electronics, a rechargeable battery,
 The result is a wireless version of the classic Xbox Duke controller that can be used with modern computers and gaming systems, combining electronics, firmware development, custom 3D design, and digital fabrication.
 
 Special thanks to:
-- [Creality Cloud - Mod Bluetooth Competition Pro XInput](https://www.crealitycloud.com/model-detail/mod-bluetooth-competition-pro-xinput) for sharing and hosting the 3D designs for this project, making the custom parts available to the community.
+- [Creality Cloud - Mod Bluetooth Xbox Duke XInput](https://www.crealitycloud.com/es/model-detail/mod-bluetooth-xbox-duke-xinput) for sharing and hosting the 3D designs for this project, making the custom parts available to the community.
 - LemmingDev and the contributors of [ESP32-BLE-Gamepad](https://github.com/lemmingDev/ESP32-BLE-Gamepad), which provides the Bluetooth gamepad and XInput functionality used in this project.
 
 
